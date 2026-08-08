@@ -1,4 +1,4 @@
-# Projet_Classification_Telco
+## Projet_Classification_Telco
 Ce projet consiste à appliquer plusieurs modèles de Machine Learning et Deep Learning sur le dataset Telco
 Customer Churn afin de prédire si un client va quitter l’entreprise de télécommunication ou rester.
 # 1. Description du Dataset
